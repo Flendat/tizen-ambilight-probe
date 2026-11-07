@@ -1,0 +1,9 @@
+{
+  "name": "tizen-ambilight-probe",
+  "version": "0.1.0",
+  "packageType": "app",
+  "appName": "Ambilight Hardware Probe",
+  "appPath": "app/index.html",
+  "serviceFile": "service.js",
+  "keys": []
+}
